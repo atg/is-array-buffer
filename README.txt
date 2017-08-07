@@ -1,0 +1,1 @@
+All credit to fengyuanchen/is-array-buffer
